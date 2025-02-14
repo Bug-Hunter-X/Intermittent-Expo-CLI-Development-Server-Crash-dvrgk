@@ -1,0 +1,1 @@
+While using Expo CLI, I encountered an issue where the development server would randomly crash without any error messages in the console.  This happened inconsistently, making it difficult to debug.  The app itself would continue to function on the device, but I couldn't make changes or hot reload.
